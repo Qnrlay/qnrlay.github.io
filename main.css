@@ -1,17 +1,18 @@
-a {
-  font-family: "avenir next";
-  font-color: blue;
-}
-.back-header {
-  height: 100;
-  width: 240;
-  background-color: powderblue;
-}
-
-.link {
-  float: left;
-  list-style: none;
-  height: 50%;
-  margin: 0;
-}
+ a {
+    font-family: "avenir next";
+    color: blue;
+  }
+   .back-header {
+    height: 100%;
+    width: 240%;
+    background-color: powderblue;
+  }
   
+  .link {
+    float: left;
+    list-style: none;
+    height: 50%;
+    margin: 0;
+  }
+
+
