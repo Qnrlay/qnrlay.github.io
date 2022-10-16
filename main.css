@@ -2,24 +2,27 @@ a {
   font-family: "avenir next";
   color: blue;
 }
-.link {
+.back-header {
+  margin-top: 34px;
+}
+
+.back-header > li {
   float: left;
-  list-style: none;
-  margin-left: 50;
-  height: 100%;
-  width: 240%;
+  margin-left: 25px;
+  color: #202020;
   background-color: powderblue;
 }
+
 .footer{
   margin: auto;
 }
 
 body {
-  font-family: "arial";
+  font-family: arial;
 }
 
 h1 {
-  font-family: "avenir next";
+  font-family: avenir next;
   font-weight: bold;
 }
 
