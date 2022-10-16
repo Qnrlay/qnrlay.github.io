@@ -1,18 +1,32 @@
- a {
-    font-family: "avenir next";
-    color: blue;
-  }
-   .back-header {
-    height: 100%;
-    width: 240%;
-    background-color: powderblue;
-  }
+a {
+  font-family: "avenir next";
+  color: blue;
+}
+.back-header {
+  height: 100%;
+  width: 240%;
+  background-color: powderblue;
+}
   
-  .link {
-    float: left;
-    list-style: none;
-    height: 50%;
-    margin: 0;
-  }
+.link {
+  float: left;
+  list-style: none;
+  height: 50%;
+  margin: 50;
+}
+.footer{
+  margin: auto;
+}
 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+h1 {
+  font-family: avenir next;
+  font-weight: bold;
+}
+
+.talk {
+  color: #202020;
+}
