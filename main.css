@@ -7,13 +7,15 @@ a {
 }
 
 .back-header > ul {
-  float: left;
   margin-left: 25px;
   color: #202020;
   background-color: powderblue;
 }
 
-.footer{
+li {
+  float: left;
+}
+footer{
   margin: auto;
 }
 
